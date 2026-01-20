@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Savaspin Casino App - Κατεβάστε και Παίξτε στην Ελλάδα on Sava-spin-casino</title>
-    <link>http://localhost:1313/app/</link>
+    <link>https://savaspin-casino.com.gr/app/</link>
     <description>Recent content in Savaspin Casino App - Κατεβάστε και Παίξτε στην Ελλάδα on Sava-spin-casino</description>
     <generator>Hugo</generator>
     <language>el-GR</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://savaspin-casino.com.gr/app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

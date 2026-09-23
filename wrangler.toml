@@ -1,0 +1,11 @@
+name = "savaspin-casino-com-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=savaspin-casino.com.gr"
+HMAC_KEY = "eb75e0941dbd448fad3afb7139155b159e2669039b8f4288119c1ed1a57d85bd"
+COOKIE_NAME = "3hw"
+PLAY_PATH = "explore"
+BUTTON_ID = "p0202188d7f94797c2d9457f1ba432d23"
+GATE_SALT = "f4fc99e09df0c988"
